@@ -2,6 +2,7 @@
 
 Summarize Student Data and World Development Data from the UCI machine learning repository.
 
+[Project report](https://htmlpreview.github.io/?https://raw.githubusercontent.com/chsueh2/Summarizing_Data/main/Summarizing_Data.html) 
 
 Key features:
 
@@ -23,7 +24,7 @@ Modules used:
 
 ## Project Report
 
-[Project report](https://htmlpreview.github.io/?https://raw.githubusercontent.com/chsueh2/NFL_pandas-on-Spark/main/NFL.html) ([Jupyter Notebook](./Summarizing_Data.ipynb))
+[Project report](https://htmlpreview.github.io/?https://raw.githubusercontent.com/chsueh2/Summarizing_Data/main/Summarizing_Data.html) ([Jupyter Notebook](./Summarizing_Data.ipynb))
 
 The analysis results with theoretical backgrounds are included.
 
