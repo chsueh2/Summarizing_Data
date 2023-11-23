@@ -1,6 +1,6 @@
 # Summarizing Data
 
-Summarize Student Data and World Development Data from the UCI machine learning repository using pandas and matplotlib.
+Summarize Student Data and World Development Data from the UCI machine learning repository.
 
 
 Key features:
@@ -31,15 +31,11 @@ Chien-Lan Hsueh (chienlan.hsueh at gmail.com)
 
 ## Overview and Project Goal
 
-To illustrate the ease of parallelization with Spark, we can now update an earlier MapReduce algorithm to run on Spark with far fewer steps required. Previously, we had to read in the large scores dataset, subset based on the value of season, then reread these datasets as an iterable list for the map and reduce functions. Now, we can simply use a pandas on spark dataframe to iterate over the values of seasons and parallelize our earlier computations.
+Read in Student Data and World Development Data from the UCI machine learning repository using pandas and matplotlib. Convert the categorical variables into category type and create contingency tables (one-way, two-way and three-way). Also create a conditional two-way table by subsetting the data. Use various types of plots for data visualization.
 
 ## Workflow
 
-1. Preparation
-   - Load module
-   - Set up configuration to run Spark
-   - define aggregation function to work on data (pyspark.pandas.DataFrame)
-   - Read in NFL data (with a quick inspection)
+1. Preparation and Load Modules
 1. Student Data
    - Summarize categorical variables
    - Summarize numerical variables
