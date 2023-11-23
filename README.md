@@ -45,3 +45,19 @@ Read in Student Data and World Development Data from the UCI machine learning re
    - How the access to clean fuels and technologies for cooking has changed over time in Arab world (ARB)?
    - How the access to electricity has changed over time in the following regions?
    - How the access to electricity has changed over time in rual and uraban areas in Arab world?
+   
+![](./image1.png)
+
+![](./image2.png)
+   
+![](./image3.png)
+
+![](./image4.png)
+   
+![](./image5.png)
+
+![](./image6.png)
+   
+![](./image7.png)
+
+![](./image8.png)
