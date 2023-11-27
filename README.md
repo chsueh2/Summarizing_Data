@@ -46,18 +46,18 @@ Read in Student Data and World Development Data from the UCI machine learning re
    - How the access to electricity has changed over time in the following regions?
    - How the access to electricity has changed over time in rual and uraban areas in Arab world?
    
-![](./image1.png)
+![](./images/image1.png)
 
-![](./image2.png)
+![](./images/image2.png)
    
-![](./image3.png)
+![](./images/image3.png)
 
-![](./image4.png)
+![](./images/image4.png)
    
-![](./image5.png)
+![](./images/image5.png)
 
-![](./image6.png)
+![](./images/image6.png)
    
-![](./image7.png)
+![](./images/image7.png)
 
-![](./image8.png)
+![](./images/image8.png)
